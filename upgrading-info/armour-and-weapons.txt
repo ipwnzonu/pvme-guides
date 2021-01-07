@@ -305,7 +305,10 @@ __**Melee**__
 ⬥ Scrimshaw of Cruelty
        • Adds +5% (normal) or +6.66% (superior) damage to all Ranged attacks
 ⬥ Priority: `High`
-
+⬥ Scrimshaw of Vampyrism
+      • Restores 5% (normal) or 6.66% (superior) of all Melee damage dealt
+      • Note: Capped at 200 lifepoints healed per hit
+⬥ Priority: `High`
 .
 <:SaraBook:574290439482638346> **God Books**
 ⬥ These books come with various effects when active, as well as offering style bonuses as a pocket slot item.
