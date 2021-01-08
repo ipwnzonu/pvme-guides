@@ -209,6 +209,8 @@ Further examples may be seen here: <https://runescape.wiki/w/Optimal_PvM_Relic_P
 ⬥ **Haunted Mine**: Access to Salve Amulet
     -**Lair of Tarn Razorlor** [miniquest]: Access to Salve Amulet (e)
       • Priority: `medium`
+⬥ **As a First Resort**: Unlocks Spas and ability to have NPCs decant flasks for you
+      • Priority: `medium`
 .
 > **__Quests for Dominion Mines__** <:dommine:662249620579155968>
 .tag:mines
